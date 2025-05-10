@@ -9,7 +9,7 @@ html{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-
 body{width:100%;min-height:100vh;vertical-align:baseline;word-wrap:break-word;color:#282a2d;background:#f9f9f9;transition:background-color .3s}
 body,input,button,select,optgroup,option,textarea,blockquote,dd,dl,figure,form,pre,.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:"SF Pro SC","SF Pro Text","SF Pro Icons",PingFang SC,Lantinghei SC,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
 body,html{height:100%;margin:0;padding:0;border:0}
-a{color:#2f2f2f;outline:0!important;text-decoration:none}
+a{color:#444444;outline:0!important;text-decoration:none}
 a:hover{text-decoration:none;color:#007bff}
 p{color:#1d232b;margin:0;white-space:normal;word-break:break-all} 
 
@@ -166,7 +166,7 @@ a>i.sidebar-more{transform:scale(.8)}
 --------------------------------------------------------------*/
 .text-ss{font-size:.45rem!important}
 .text-xs{font-size:.75rem!important}
-.text-sm{font-size:1.1rem!important}
+.text-sm{font-size:1.2rem!important}
 .text-md{font-size:1rem!important}
 .text-lg{font-size:1.3rem!important}
 .text-xl{font-size:1.375rem!important}
@@ -284,7 +284,7 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 --------------------------------------------------------------*/
 .btn.focus,.btn:focus{outline:0;box-shadow:none}
 .tooltip-inner img{margin:.25rem 0}
-.tooltip-inner p{color:#000}
+.tooltip-inner p{color:#fff}
 .modal-backdrop{z-index:1089!important;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);background:rgba(0,0,0,.5)}
 .modal-backdrop.show{opacity:1}
 .modal{z-index:1090}
