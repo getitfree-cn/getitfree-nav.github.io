@@ -142,7 +142,7 @@ a>i.sidebar-more{transform:scale(.8)}
 .bulletin ul{margin:0;padding:0;list-style-type:none;font-size:14px}
 @media (min-width:768px){.navbar{padding:0 1rem}
 .main-content{margin-left:0px}
-.page-header{left:170px}
+.page-header{left:0px}
 .sidebar-nav.animate-nav+.main-content{-webkit-transition:.2s;-o-transition:.2s;transition:.2s}
 .sidebar-nav.animate-nav+.main-content .page-header{-webkit-transition:left .2s,color .3s,background-color .3s;-o-transition:left .2s,color .3s,background-color .3s;transition:left .2s,color .3s,background-color .3s}
 .sidebar-nav.mini-sidebar+.main-content{margin-left:60px}
